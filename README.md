@@ -2,5 +2,5 @@
 
 ## Example format
 
-### Visit my [Github profile] (https://github.com/kylacamille22)!
+### Visit my [Github Page](https://github.com/kylacamille22)!
 
